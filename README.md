@@ -31,7 +31,7 @@ Sigue estos pasos para levantar el proyecto en un entorno de desarrollo local.
 ### 2. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/inventario-corporativo.git
+git clone https://github.com/ismaiars/inventario-corporativo.git
 cd inventario-corporativo
 ```
 
